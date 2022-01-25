@@ -1,0 +1,89 @@
+.wrapperA{
+width:100%;
+box-sizing: border-box;
+background-color:rgb(190, 188, 188);
+display: inline-flex;
+height: 35px;
+
+}
+
+.wrapperB{
+    width:100%;
+    box-sizing: border-box;
+    background-color:rgb(190, 188, 188);
+    display: inline-flex;
+    height: 35px;
+    justify-content: center;
+    }
+
+    .wrapperC{
+        width:100%;
+        box-sizing: border-box;
+        background-color:rgb(190, 188, 188);
+        display: inline-flex;
+        height: 35px;
+        justify-content: center;
+        }
+
+        .wrapperD{
+            width:100%;
+            box-sizing: border-box;
+            background-color:rgb(190, 188, 188);
+            display: inline-flex;
+            height: 35px;
+            justify-content: flex-end;
+            }
+
+            .wrapperE{
+                width:100%;
+                box-sizing: border-box;
+                background-color:rgb(190, 188, 188);
+                display: inline-flex;
+                height: 35px;
+                justify-content: space-between;
+                }
+
+                .wrapperF{
+                    width:100%;
+                    box-sizing: border-box;
+                    background-color:rgb(190, 188, 188);
+                    display: inline-flex;
+                    height: 35px;
+                    justify-content: space-evenly;
+                    }
+
+                    .wrapperG{
+                        width:100%;
+                        box-sizing: border-box;
+                        background-color:rgb(190, 188, 188);
+                        display: inline-flex;
+                        height: 35px;
+                        justify-content: space-evenly;
+                        }
+ 
+                        .large{
+
+                            width:500px;
+                        }
+div{
+background-color: rgb(239, 235, 235);
+height: 25px;
+width: 20px;
+text-align: center;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 5px;
+
+}
+
+.small-wrapper{
+width:50%;
+padding-left: 720px;
+
+
+
+
+}
+
+
+
